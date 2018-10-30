@@ -7,3 +7,4 @@ if(k<=0):
     print("Number is prime")
 else:
     print("Number isn't prime")
+hi
